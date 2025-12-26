@@ -1,0 +1,2 @@
+# bravecows
+chinese flashcard app
