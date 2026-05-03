@@ -1,0 +1,9 @@
+Tatoeba Example Sentences
+
+Example sentences are sourced from the Tatoeba Project, a collaborative database of sentences and translations.
+
+Tatoeba content is licensed under Creative Commons licenses, primarily CC BY 2.0.
+
+Source: https://tatoeba.org
+
+Please consult Tatoeba for exact licensing details for specific sentences.

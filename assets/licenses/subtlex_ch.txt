@@ -1,0 +1,12 @@
+SUBTLEX-CH Chinese Frequency Data
+
+Character frequency information is derived from the SUBTLEX-CH corpus, developed by Cai, Q., and Brysbaert, M. (2010).
+
+The dataset is based on word and character frequencies from Chinese film and television subtitles.
+
+Source: https://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexch
+
+Citation:
+Cai, Q., & Brysbaert, M. (2010). SUBTLEX-CH: Chinese Word and Character Frequency Data from Film and TV Subtitles.
+
+Please see the original source for license and usage terms.

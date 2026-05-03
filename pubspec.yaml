@@ -1,0 +1,43 @@
+name: brave_cows
+description: A Flutter app for Brave Cows — simple starter scaffold
+publish_to: 'none'
+version: 0.1.2+4
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  csv: ^6.0.0
+  cupertino_icons: ^1.0.2
+  provider: ^6.1.2
+  sqflite: ^2.3.3+1
+  path_provider: ^2.1.3
+  path: ^1.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.1
+
+flutter_launcher_icons:
+  ios: true
+  macos:
+    generate: true
+  android: false
+  image_path: assets/cows_dayin.png
+  remove_alpha_ios: true
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/cows_dayin.png
+    - assets/cows_dayin_trans.png
+    - assets/db/hanzi.sqlite
+    - assets/licenses/
+    - assets/lists/cowstown.txt
+    - assets/lists/whosetown.txt
+    - assets/lists/anki_cards_editable.csv
+    - assets/lists/anki_cards.txt

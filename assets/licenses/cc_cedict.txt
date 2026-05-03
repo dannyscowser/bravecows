@@ -1,0 +1,11 @@
+CC-CEDICT Chinese–English Dictionary
+
+This application uses data from CC-CEDICT, a community-maintained Chinese–English dictionary.
+
+CC-CEDICT is licensed under the Creative Commons Attribution–ShareAlike 3.0 License (CC BY-SA 3.0).
+
+Source: https://cc-cedict.org
+
+© CC-CEDICT contributors
+
+Full license: https://creativecommons.org/licenses/by-sa/3.0/
